@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy Blackthorne | Ben Kaiser</title>
-    <link>https://benjaminhkaiser.github.io/authors/jeremy-blackthorne/</link>
-      <atom:link href="https://benjaminhkaiser.github.io/authors/jeremy-blackthorne/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.benkaiser.org/authors/jeremy-blackthorne/</link>
+      <atom:link href="http://www.benkaiser.org/authors/jeremy-blackthorne/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Blackthorne</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jeremy Blackthorne</title>
-      <link>https://benjaminhkaiser.github.io/authors/jeremy-blackthorne/</link>
+      <link>http://www.benkaiser.org/authors/jeremy-blackthorne/</link>
     </image>
     
     <item>
       <title>Environmental Authentication in Malware</title>
-      <link>https://benjaminhkaiser.github.io/publication/environmental-authentication-in-malware/</link>
+      <link>http://www.benkaiser.org/publication/environmental-authentication-in-malware/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://benjaminhkaiser.github.io/publication/environmental-authentication-in-malware/</guid>
+      <guid>http://www.benkaiser.org/publication/environmental-authentication-in-malware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formal Framework for Environmentally Sensitive Malware</title>
-      <link>https://benjaminhkaiser.github.io/publication/a-formal-framework-for-environmentally-sensitive-malware/</link>
+      <link>http://www.benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</link>
       <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://benjaminhkaiser.github.io/publication/a-formal-framework-for-environmentally-sensitive-malware/</guid>
+      <guid>http://www.benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</guid>
       <description></description>
     </item>
     

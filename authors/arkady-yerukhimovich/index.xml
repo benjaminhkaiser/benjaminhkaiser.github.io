@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arkady Yerukhimovich | Ben Kaiser</title>
+    <link>https://benjaminhkaiser.github.io/authors/arkady-yerukhimovich/</link>
+      <atom:link href="https://benjaminhkaiser.github.io/authors/arkady-yerukhimovich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arkady Yerukhimovich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Arkady Yerukhimovich</title>
+      <link>https://benjaminhkaiser.github.io/authors/arkady-yerukhimovich/</link>
+    </image>
+    
+    <item>
+      <title>Blockchain Technology: What Is It Good for?</title>
+      <link>https://benjaminhkaiser.github.io/publication/blockchain-technology-what-is-it-good-for/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/blockchain-technology-what-is-it-good-for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing on Masked Data to improve the security of big data</title>
+      <link>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

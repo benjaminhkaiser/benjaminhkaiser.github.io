@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Kaiser</title>
+    <link>https://benjaminhkaiser.github.io/</link>
+      <atom:link href="https://benjaminhkaiser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Kaiser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ben Kaiser</title>
+      <link>https://benjaminhkaiser.github.io/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Study of Wireless Carrier Authentication for SIM Swaps</title>
+      <link>https://benjaminhkaiser.github.io/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Technology: What Is It Good for?</title>
+      <link>https://benjaminhkaiser.github.io/publication/blockchain-technology-what-is-it-good-for/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/blockchain-technology-what-is-it-good-for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Authentication in Malware</title>
+      <link>https://benjaminhkaiser.github.io/publication/environmental-authentication-in-malware/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/environmental-authentication-in-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Framework for Environmentally Sensitive Malware</title>
+      <link>https://benjaminhkaiser.github.io/publication/a-formal-framework-for-environmentally-sensitive-malware/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/a-formal-framework-for-environmentally-sensitive-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing on Masked Data to improve the security of big data</title>
+      <link>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

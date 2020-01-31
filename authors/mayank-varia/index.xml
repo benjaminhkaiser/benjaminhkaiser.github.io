@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mayank Varia | Ben Kaiser</title>
+    <link>https://benjaminhkaiser.github.io/authors/mayank-varia/</link>
+      <atom:link href="https://benjaminhkaiser.github.io/authors/mayank-varia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mayank Varia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mayank Varia</title>
+      <link>https://benjaminhkaiser.github.io/authors/mayank-varia/</link>
+    </image>
+    
+    <item>
+      <title>Computing on Masked Data to improve the security of big data</title>
+      <link>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://benjaminhkaiser.github.io/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

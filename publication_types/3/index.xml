@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/publication_types/3/</link>
-      <atom:link href="http://www.benkaiser.org/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/publication_types/3/</link>
+      <atom:link href="http://benkaiser.org/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
-      <link>http://www.benkaiser.org/publication_types/3/</link>
+      <link>http://benkaiser.org/publication_types/3/</link>
     </image>
     
     <item>
       <title>An Empirical Study of Wireless Carrier Authentication for SIM Swaps</title>
-      <link>http://www.benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</link>
+      <link>http://benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</guid>
+      <guid>http://benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</guid>
       <description></description>
     </item>
     

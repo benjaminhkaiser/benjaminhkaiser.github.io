@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/publication_types/</link>
-      <atom:link href="http://www.benkaiser.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/publication_types/</link>
+      <atom:link href="http://benkaiser.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
-      <link>http://www.benkaiser.org/publication_types/</link>
+      <link>http://benkaiser.org/publication_types/</link>
     </image>
     
     <item>
       <title>3</title>
-      <link>http://www.benkaiser.org/publication_types/3/</link>
+      <link>http://benkaiser.org/publication_types/3/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication_types/3/</guid>
+      <guid>http://benkaiser.org/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>http://www.benkaiser.org/publication_types/2/</link>
+      <link>http://benkaiser.org/publication_types/2/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication_types/2/</guid>
+      <guid>http://benkaiser.org/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>http://www.benkaiser.org/publication_types/1/</link>
+      <link>http://benkaiser.org/publication_types/1/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication_types/1/</guid>
+      <guid>http://benkaiser.org/publication_types/1/</guid>
       <description></description>
     </item>
     

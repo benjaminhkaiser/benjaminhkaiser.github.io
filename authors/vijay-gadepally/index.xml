@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vijay Gadepally | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/authors/vijay-gadepally/</link>
-      <atom:link href="http://www.benkaiser.org/authors/vijay-gadepally/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/authors/vijay-gadepally/</link>
+      <atom:link href="http://benkaiser.org/authors/vijay-gadepally/index.xml" rel="self" type="application/rss+xml" />
     <description>Vijay Gadepally</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Vijay Gadepally</title>
-      <link>http://www.benkaiser.org/authors/vijay-gadepally/</link>
+      <link>http://benkaiser.org/authors/vijay-gadepally/</link>
     </image>
     
     <item>
       <title>Computing on Masked Data to improve the security of big data</title>
-      <link>http://www.benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
+      <link>http://benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
+      <guid>http://benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
       <description></description>
     </item>
     

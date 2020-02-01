@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/authors/</link>
-      <atom:link href="http://www.benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/authors/</link>
+      <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>http://www.benkaiser.org/authors/</link>
+      <link>http://benkaiser.org/authors/</link>
     </image>
     
     <item>
       <title>Arvind Narayanan</title>
-      <link>http://www.benkaiser.org/authors/arvind-narayanan/</link>
+      <link>http://benkaiser.org/authors/arvind-narayanan/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/arvind-narayanan/</guid>
+      <guid>http://benkaiser.org/authors/arvind-narayanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ben Kaiser</title>
-      <link>http://www.benkaiser.org/authors/ben-kaiser/</link>
+      <link>http://benkaiser.org/authors/ben-kaiser/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/ben-kaiser/</guid>
+      <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Mayer</title>
-      <link>http://www.benkaiser.org/authors/jonathan-mayer/</link>
+      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/jonathan-mayer/</guid>
+      <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Lee</title>
-      <link>http://www.benkaiser.org/authors/kevin-lee/</link>
+      <link>http://benkaiser.org/authors/kevin-lee/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/kevin-lee/</guid>
+      <guid>http://benkaiser.org/authors/kevin-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arkady Yerukhimovich</title>
-      <link>http://www.benkaiser.org/authors/arkady-yerukhimovich/</link>
+      <link>http://benkaiser.org/authors/arkady-yerukhimovich/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/arkady-yerukhimovich/</guid>
+      <guid>http://benkaiser.org/authors/arkady-yerukhimovich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeremy Clark</title>
-      <link>http://www.benkaiser.org/authors/jeremy-clark/</link>
+      <link>http://benkaiser.org/authors/jeremy-clark/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/jeremy-clark/</guid>
+      <guid>http://benkaiser.org/authors/jeremy-clark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Cunningham</title>
-      <link>http://www.benkaiser.org/authors/robert-cunningham/</link>
+      <link>http://benkaiser.org/authors/robert-cunningham/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/robert-cunningham/</guid>
+      <guid>http://benkaiser.org/authors/robert-cunningham/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scott Ruoti</title>
-      <link>http://www.benkaiser.org/authors/scott-ruoti/</link>
+      <link>http://benkaiser.org/authors/scott-ruoti/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/scott-ruoti/</guid>
+      <guid>http://benkaiser.org/authors/scott-ruoti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B&amp;uuml;lent Yener</title>
-      <link>http://www.benkaiser.org/authors/buumllent-yener/</link>
+      <link>http://benkaiser.org/authors/buumllent-yener/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/buumllent-yener/</guid>
+      <guid>http://benkaiser.org/authors/buumllent-yener/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benjamin Fuller</title>
-      <link>http://www.benkaiser.org/authors/benjamin-fuller/</link>
+      <link>http://benkaiser.org/authors/benjamin-fuller/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/benjamin-fuller/</guid>
+      <guid>http://benkaiser.org/authors/benjamin-fuller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeremy Blackthorne</title>
-      <link>http://www.benkaiser.org/authors/jeremy-blackthorne/</link>
+      <link>http://benkaiser.org/authors/jeremy-blackthorne/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/jeremy-blackthorne/</guid>
+      <guid>http://benkaiser.org/authors/jeremy-blackthorne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Braden Hancock</title>
-      <link>http://www.benkaiser.org/authors/braden-hancock/</link>
+      <link>http://benkaiser.org/authors/braden-hancock/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/braden-hancock/</guid>
+      <guid>http://benkaiser.org/authors/braden-hancock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeremy Kepner</title>
-      <link>http://www.benkaiser.org/authors/jeremy-kepner/</link>
+      <link>http://benkaiser.org/authors/jeremy-kepner/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/jeremy-kepner/</guid>
+      <guid>http://benkaiser.org/authors/jeremy-kepner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mayank Varia</title>
-      <link>http://www.benkaiser.org/authors/mayank-varia/</link>
+      <link>http://benkaiser.org/authors/mayank-varia/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/mayank-varia/</guid>
+      <guid>http://benkaiser.org/authors/mayank-varia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pete Michaleas</title>
-      <link>http://www.benkaiser.org/authors/pete-michaleas/</link>
+      <link>http://benkaiser.org/authors/pete-michaleas/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/pete-michaleas/</guid>
+      <guid>http://benkaiser.org/authors/pete-michaleas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vijay Gadepally</title>
-      <link>http://www.benkaiser.org/authors/vijay-gadepally/</link>
+      <link>http://benkaiser.org/authors/vijay-gadepally/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/vijay-gadepally/</guid>
+      <guid>http://benkaiser.org/authors/vijay-gadepally/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.benkaiser.org/authors/admin/</link>
+      <link>http://benkaiser.org/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/authors/admin/</guid>
+      <guid>http://benkaiser.org/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a 2nd-year PhD student in Computer Science at Princeton University advised by 
 &lt;a href=&#34;https://www.jonathanmayer.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Mayer&lt;/a&gt;
  in the 

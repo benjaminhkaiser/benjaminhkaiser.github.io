@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/publication_types/1/</link>
-      <atom:link href="http://www.benkaiser.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/publication_types/1/</link>
+      <atom:link href="http://benkaiser.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
-      <link>http://www.benkaiser.org/publication_types/1/</link>
+      <link>http://benkaiser.org/publication_types/1/</link>
     </image>
     
     <item>
       <title>Environmental Authentication in Malware</title>
-      <link>http://www.benkaiser.org/publication/environmental-authentication-in-malware/</link>
+      <link>http://benkaiser.org/publication/environmental-authentication-in-malware/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/environmental-authentication-in-malware/</guid>
+      <guid>http://benkaiser.org/publication/environmental-authentication-in-malware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formal Framework for Environmentally Sensitive Malware</title>
-      <link>http://www.benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</link>
+      <link>http://benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</link>
       <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</guid>
+      <guid>http://benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing on Masked Data to improve the security of big data</title>
-      <link>http://www.benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
+      <link>http://benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
+      <guid>http://benkaiser.org/publication/computing-on-masked-data-to-improve-the-security-of-big-data/</guid>
       <description></description>
     </item>
     

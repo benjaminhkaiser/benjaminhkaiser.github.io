@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Cunningham | Ben Kaiser</title>
-    <link>http://www.benkaiser.org/authors/robert-cunningham/</link>
-      <atom:link href="http://www.benkaiser.org/authors/robert-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://benkaiser.org/authors/robert-cunningham/</link>
+      <atom:link href="http://benkaiser.org/authors/robert-cunningham/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Cunningham</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Robert Cunningham</title>
-      <link>http://www.benkaiser.org/authors/robert-cunningham/</link>
+      <link>http://benkaiser.org/authors/robert-cunningham/</link>
     </image>
     
     <item>
       <title>Blockchain Technology: What Is It Good for?</title>
-      <link>http://www.benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</link>
+      <link>http://benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</guid>
+      <guid>http://benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</guid>
       <description></description>
     </item>
     

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonathan Mayer | Ben Kaiser</title>
-    <link>http://benkaiser.org/authors/jonathan-mayer/</link>
-      <atom:link href="http://benkaiser.org/authors/jonathan-mayer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jonathan Mayer</description>
+    <title>Nick Feamster | Ben Kaiser</title>
+    <link>http://benkaiser.org/authors/nick-feamster/</link>
+      <atom:link href="http://benkaiser.org/authors/nick-feamster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nick Feamster</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Jonathan Mayer</title>
-      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
+      <title>Nick Feamster</title>
+      <link>http://benkaiser.org/authors/nick-feamster/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Empirical Study of Wireless Carrier Authentication for SIM Swaps</title>
-      <link>http://benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/publication/an-empirical-study-of-wireless-carrier-authentication-for-sim-swaps/</guid>
       <description></description>
     </item>
     

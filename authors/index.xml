@@ -5,7 +5,7 @@
     <link>http://benkaiser.org/authors/</link>
       <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>Arvind Narayanan</title>
-      <link>http://benkaiser.org/authors/arvind-narayanan/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/arvind-narayanan/</guid>
+      <title>Austin Hounsel</title>
+      <link>http://benkaiser.org/authors/austin-hounsel/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/austin-hounsel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ben Kaiser</title>
       <link>http://benkaiser.org/authors/ben-kaiser/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
       <description></description>
     </item>
@@ -31,8 +31,40 @@
     <item>
       <title>Jonathan Mayer</title>
       <link>http://benkaiser.org/authors/jonathan-mayer/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordan Holland</title>
+      <link>http://benkaiser.org/authors/jordan-holland/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/jordan-holland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Borgolte</title>
+      <link>http://benkaiser.org/authors/kevin-borgolte/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/kevin-borgolte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Feamster</title>
+      <link>http://benkaiser.org/authors/nick-feamster/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/nick-feamster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arvind Narayanan</title>
+      <link>http://benkaiser.org/authors/arvind-narayanan/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/arvind-narayanan/</guid>
       <description></description>
     </item>
     

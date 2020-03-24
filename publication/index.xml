@@ -5,12 +5,20 @@
     <link>http://benkaiser.org/publication/</link>
       <atom:link href="http://benkaiser.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://benkaiser.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Environmental Authentication in Malware</title>
+      <link>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Empirical Study of Wireless Carrier Authentication for SIM Swaps</title>

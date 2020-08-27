@@ -5,7 +5,7 @@
     <link>http://benkaiser.org/authors/</link>
       <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,33 +13,65 @@
     </image>
     
     <item>
-      <title>Austin Hounsel</title>
-      <link>http://benkaiser.org/authors/austin-hounsel/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/austin-hounsel/</guid>
+      <title>Ben Kaiser</title>
+      <link>http://benkaiser.org/authors/ben-kaiser/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ben Kaiser</title>
-      <link>http://benkaiser.org/authors/ben-kaiser/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
+      <title>Elena Lucherini</title>
+      <link>http://benkaiser.org/authors/elena-lucherini/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/elena-lucherini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Nathan Matias</title>
+      <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/j.-nathan-matias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jerry Wei</title>
+      <link>http://benkaiser.org/authors/jerry-wei/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/jerry-wei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Mayer</title>
       <link>http://benkaiser.org/authors/jonathan-mayer/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Lee</title>
+      <link>http://benkaiser.org/authors/kevin-lee/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/kevin-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Hounsel</title>
+      <link>http://benkaiser.org/authors/austin-hounsel/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/austin-hounsel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jordan Holland</title>
       <link>http://benkaiser.org/authors/jordan-holland/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/jordan-holland/</guid>
       <description></description>
     </item>
@@ -47,7 +79,7 @@
     <item>
       <title>Kevin Borgolte</title>
       <link>http://benkaiser.org/authors/kevin-borgolte/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/kevin-borgolte/</guid>
       <description></description>
     </item>
@@ -55,7 +87,7 @@
     <item>
       <title>Nick Feamster</title>
       <link>http://benkaiser.org/authors/nick-feamster/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/nick-feamster/</guid>
       <description></description>
     </item>
@@ -65,14 +97,6 @@
       <link>http://benkaiser.org/authors/arvind-narayanan/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/arvind-narayanan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Lee</title>
-      <link>http://benkaiser.org/authors/kevin-lee/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/kevin-lee/</guid>
       <description></description>
     </item>
     
@@ -193,12 +217,12 @@
       <link>http://benkaiser.org/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a 2nd-year PhD student in Computer Science at Princeton University advised by 
+      <description>&lt;p&gt;I&amp;rsquo;m a 3rd-year PhD candidate in Computer Science at Princeton University advised by 
 &lt;a href=&#34;https://www.jonathanmayer.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Mayer&lt;/a&gt;
  in the 
 &lt;a href=&#34;https://citp.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Information Technology Policy.&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;My background is in security and privacy, and my current work focuses on disinformation, digital media, and consumer protection.&lt;/p&gt;
+&lt;p&gt;My background is in security and privacy, and my current work is on measuring and responding to online disinformation.&lt;/p&gt;
 &lt;p&gt;I love to teach and mentor. I’ve taught computing and security basics to students of all ages through 
 &lt;a href=&#34;https://www.codecreative-ll.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodeCreative,&lt;/a&gt;
  
@@ -207,9 +231,11 @@
 &lt;a href=&#34;https://rpis.ec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RPISEC,&lt;/a&gt;
  and 
 &lt;a href=&#34;https://interface-pton.github.io/interface/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Princeton INTERFACE,&lt;/a&gt;
- among other groups. At Princeton, I am the teaching assistant for 
-&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 448.&lt;/a&gt;
-&lt;/p&gt;
+ among other groups. At Princeton, I TA&amp;rsquo;d 
+&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 448&lt;/a&gt;
+ and 
+&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 217&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;In my spare time, I like to make craft cocktails, play tennis, teach tricks to my dog, and read.&lt;/p&gt;
 </description>
     </item>

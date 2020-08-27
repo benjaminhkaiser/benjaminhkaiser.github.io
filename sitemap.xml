@@ -3,67 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://benkaiser.org/publication_types/4/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <loc>http://benkaiser.org/publication_types/3/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://benkaiser.org/authors/austin-hounsel/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <loc>http://benkaiser.org/publication/adapting-security-warnings-to-counter-online-disinformation/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/authors/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/authors/ben-kaiser/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/elena-lucherini/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/j.-nathan-matias/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/jerry-wei/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/authors/jonathan-mayer/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://benkaiser.org/authors/jordan-holland/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/kevin-borgolte/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/nick-feamster/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <loc>http://benkaiser.org/authors/kevin-lee/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/publication_types/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/publication/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/publication_types/1/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/austin-hounsel/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://benkaiser.org/publication_types/3/</loc>
+    <loc>http://benkaiser.org/authors/jordan-holland/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/kevin-borgolte/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/nick-feamster/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/publication_types/4/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,11 +104,6 @@
   
   <url>
     <loc>http://benkaiser.org/authors/arvind-narayanan/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/kevin-lee/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,11 +150,6 @@
   <url>
     <loc>http://benkaiser.org/publication/an-analysis-of-chinese-influence-on-bitcoin/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/publication_types/1/</loc>
-    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>

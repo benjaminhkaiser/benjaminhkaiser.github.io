@@ -5,12 +5,20 @@
     <link>http://benkaiser.org/publication_types/1/</link>
       <atom:link href="http://benkaiser.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>http://benkaiser.org/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Identifying Disinformation Websites Using Infrastructure Features</title>
+      <link>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environmental Authentication in Malware</title>

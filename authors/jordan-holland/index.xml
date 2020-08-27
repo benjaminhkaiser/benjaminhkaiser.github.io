@@ -5,7 +5,7 @@
     <link>http://benkaiser.org/authors/jordan-holland/</link>
       <atom:link href="http://benkaiser.org/authors/jordan-holland/index.xml" rel="self" type="application/rss+xml" />
     <description>Jordan Holland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jordan Holland</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Supporting Early and Scalable Discovery of Disinformation Websites</title>
+      <title>Identifying Disinformation Websites Using Infrastructure Features</title>
       <link>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/publication/supporting-early-and-scalable-discovery-of-disinformation-websites/</guid>
       <description></description>
     </item>

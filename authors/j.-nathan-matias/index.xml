@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Nathan Matias | Ben Kaiser</title>
+    <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
+      <atom:link href="http://benkaiser.org/authors/j.-nathan-matias/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Nathan Matias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>J. Nathan Matias</title>
+      <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
+    </image>
+    
+    <item>
+      <title>Adapting Security Warnings to Counter Online Disinformation</title>
+      <link>http://benkaiser.org/publication/adapting-security-warnings-to-counter-online-disinformation/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/adapting-security-warnings-to-counter-online-disinformation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

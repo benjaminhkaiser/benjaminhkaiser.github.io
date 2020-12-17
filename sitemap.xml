@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://benkaiser.org/publication_types/3/</loc>
+    <loc>http://benkaiser.org/publication_types/1/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>http://benkaiser.org/authors/ben-kaiser/</loc>
+    <loc>http://benkaiser.org/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://benkaiser.org/</loc>
+    <loc>http://benkaiser.org/authors/ben-kaiser/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -60,11 +60,6 @@
   <url>
     <loc>http://benkaiser.org/publication/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/publication_types/1/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,36 +103,6 @@
   </url>
   
   <url>
-    <loc>http://benkaiser.org/publication_types/2/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/arkady-yerukhimovich/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/jeremy-clark/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/robert-cunningham/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://benkaiser.org/authors/scott-ruoti/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://benkaiser.org/authors/g.-alex-ledger/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -175,6 +140,11 @@
   <url>
     <loc>http://benkaiser.org/publication/a-formal-framework-for-environmentally-sensitive-malware/</loc>
     <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://benkaiser.org/authors/arkady-yerukhimovich/</loc>
+    <lastmod>2015-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>

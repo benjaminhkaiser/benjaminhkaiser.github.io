@@ -5,12 +5,20 @@
     <link>http://benkaiser.org/publication/</link>
       <atom:link href="http://benkaiser.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://benkaiser.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Warnings That Work: Combating Misinformation Without Deplatforming</title>
+      <link>http://benkaiser.org/publication/warnings-that-work-combating-misinformation-without-deplatforming/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/warnings-that-work-combating-misinformation-without-deplatforming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting Security Warnings to Counter Online Disinformation</title>

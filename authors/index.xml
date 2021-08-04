@@ -5,7 +5,7 @@
     <link>http://benkaiser.org/authors/</link>
       <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Ben Kaiser</title>
       <link>http://benkaiser.org/authors/ben-kaiser/</link>
-      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Nathan Matias</title>
+      <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/j.-nathan-matias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Mayer</title>
+      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
       <description></description>
     </item>
     
@@ -29,26 +45,10 @@
     </item>
     
     <item>
-      <title>J. Nathan Matias</title>
-      <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
-      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/j.-nathan-matias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jerry Wei</title>
       <link>http://benkaiser.org/authors/jerry-wei/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/jerry-wei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Mayer</title>
-      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
-      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
       <description></description>
     </item>
     
@@ -212,7 +212,7 @@
  and 
 &lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 217&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;In my spare time, I like to make craft cocktails, play tennis, teach tricks to my dog, and read.&lt;/p&gt;
+&lt;p&gt;In my spare time, I like to read science fiction, play tennis, and make craft cocktails.&lt;/p&gt;
 </description>
     </item>
     

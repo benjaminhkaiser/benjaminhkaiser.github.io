@@ -5,12 +5,20 @@
     <link>http://benkaiser.org/authors/arkady-yerukhimovich/</link>
       <atom:link href="http://benkaiser.org/authors/arkady-yerukhimovich/index.xml" rel="self" type="application/rss+xml" />
     <description>Arkady Yerukhimovich</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Arkady Yerukhimovich</title>
       <link>http://benkaiser.org/authors/arkady-yerukhimovich/</link>
     </image>
+    
+    <item>
+      <title>Blockchain Technology: What Is It Good For?</title>
+      <link>http://benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/blockchain-technology-what-is-it-good-for/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computing on Masked Data to improve the security of big data</title>

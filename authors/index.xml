@@ -5,7 +5,7 @@
     <link>http://benkaiser.org/authors/</link>
       <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Adam Chlipala</title>
+      <link>http://benkaiser.org/authors/adam-chlipala/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/adam-chlipala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alice Lee</title>
+      <link>http://benkaiser.org/authors/alice-lee/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/alice-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Wagner</title>
+      <link>http://benkaiser.org/authors/andrew-wagner/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/andrew-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ben Kaiser</title>
       <link>http://benkaiser.org/authors/ben-kaiser/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Park</title>
+      <link>http://benkaiser.org/authors/daniel-park/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/daniel-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martine Kalke</title>
+      <link>http://benkaiser.org/authors/martine-kalke/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/martine-kalke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Cunningham</title>
+      <link>http://benkaiser.org/authors/robert-cunningham/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/robert-cunningham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy Braje</title>
+      <link>http://benkaiser.org/authors/timothy-braje/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/timothy-braje/</guid>
       <description></description>
     </item>
     
@@ -95,7 +151,7 @@
     <item>
       <title>Arvind Narayanan</title>
       <link>http://benkaiser.org/authors/arvind-narayanan/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/arvind-narayanan/</guid>
       <description></description>
     </item>
@@ -113,14 +169,6 @@
       <link>http://benkaiser.org/authors/jeremy-clark/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/jeremy-clark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Cunningham</title>
-      <link>http://benkaiser.org/authors/robert-cunningham/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/robert-cunningham/</guid>
       <description></description>
     </item>
     
@@ -217,24 +265,13 @@
       <link>http://benkaiser.org/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a 3rd-year PhD candidate in Computer Science at Princeton University advised by 
-&lt;a href=&#34;https://www.jonathanmayer.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Mayer&lt;/a&gt;
- in the 
-&lt;a href=&#34;https://citp.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Information Technology Policy.&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;My background is in security and privacy, and my current work is on measuring and responding to online disinformation.&lt;/p&gt;
-&lt;p&gt;I love to teach and mentor. I’ve taught computing and security basics to students of all ages through 
-&lt;a href=&#34;https://www.codecreative-ll.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodeCreative,&lt;/a&gt;
- 
-&lt;a href=&#34;https://www.ll.mit.edu/outreach/llcipher&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LLCipher,&lt;/a&gt;
- and 
-&lt;a href=&#34;https://rpis.ec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RPISEC,&lt;/a&gt;
- among other groups. At Princeton, I TA&amp;rsquo;d 
-&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 448&lt;/a&gt;
- and 
-&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos217/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COS 217.&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;In my spare time, I like to read science fiction, play tennis, and make craft cocktails.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD candidate in Computer Science at Princeton University, advised by &lt;a href=&#34;https://www.jonathanmayer.org&#34;&gt;Jonathan Mayer&lt;/a&gt; in the &lt;a href=&#34;https://citp.princeton.edu/&#34;&gt;Center for Information Technology Policy&lt;/a&gt;. I also work as a Scientific Researcher at &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My publications are listed below, and my current projects include a large-scale field study of disinformation interventions and a qualitative usability evaluation of a novel research platform.&lt;/p&gt;
+
+&lt;p&gt;Outside of research, I love to teach and mentor. I’ve taught computing and security basics to students of all ages through &lt;a href=&#34;https://www.codecreative-ll.org/&#34;&gt;CodeCreative,&lt;/a&gt; &lt;a href=&#34;https://www.ll.mit.edu/outreach/llcipher&#34;&gt;LLCipher,&lt;/a&gt; and &lt;a href=&#34;https://rpis.ec/&#34;&gt;RPISEC,&lt;/a&gt; among other groups. At Princeton, I TA&amp;rsquo;d &lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34;&gt;COS 448&lt;/a&gt; and &lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos217/&#34;&gt;COS 217.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In my spare time, I like to bike, play tennis, read science fiction, and make craft cocktails.&lt;/p&gt;
 </description>
     </item>
     

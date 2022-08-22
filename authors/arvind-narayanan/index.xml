@@ -5,12 +5,20 @@
     <link>http://benkaiser.org/authors/arvind-narayanan/</link>
       <atom:link href="http://benkaiser.org/authors/arvind-narayanan/index.xml" rel="self" type="application/rss+xml" />
     <description>Arvind Narayanan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Arvind Narayanan</title>
       <link>http://benkaiser.org/authors/arvind-narayanan/</link>
     </image>
+    
+    <item>
+      <title>Vulnerability Reporting is Dysfunctional</title>
+      <link>http://benkaiser.org/publication/vulnerability-reporting-is-dysfunctional/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/vulnerability-reporting-is-dysfunctional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Empirical Study of Wireless Carrier Authentication for SIM Swaps</title>

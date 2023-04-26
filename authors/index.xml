@@ -5,12 +5,68 @@
     <link>http://benkaiser.org/authors/</link>
       <atom:link href="http://benkaiser.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>http://benkaiser.org/authors/</link>
     </image>
+    
+    <item>
+      <title>Ben Kaiser</title>
+      <link>http://benkaiser.org/authors/ben-kaiser/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Mayer</title>
+      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Kohlbrenner</title>
+      <link>http://benkaiser.org/authors/anne-kohlbrenner/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/anne-kohlbrenner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kartikeya Kandula</title>
+      <link>http://benkaiser.org/authors/kartikeya-kandula/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/kartikeya-kandula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Weiss</title>
+      <link>http://benkaiser.org/authors/rebecca-weiss/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/rebecca-weiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Helmer</title>
+      <link>http://benkaiser.org/authors/robert-helmer/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/robert-helmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ted Han</title>
+      <link>http://benkaiser.org/authors/ted-han/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/authors/ted-han/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adam Chlipala</title>
@@ -33,14 +89,6 @@
       <link>http://benkaiser.org/authors/andrew-wagner/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/andrew-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ben Kaiser</title>
-      <link>http://benkaiser.org/authors/ben-kaiser/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/ben-kaiser/</guid>
       <description></description>
     </item>
     
@@ -81,14 +129,6 @@
       <link>http://benkaiser.org/authors/j.-nathan-matias/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/j.-nathan-matias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Mayer</title>
-      <link>http://benkaiser.org/authors/jonathan-mayer/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://benkaiser.org/authors/jonathan-mayer/</guid>
       <description></description>
     </item>
     
@@ -265,9 +305,9 @@
       <link>http://benkaiser.org/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://benkaiser.org/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a PhD candidate in Computer Science at Princeton University, advised by &lt;a href=&#34;https://www.jonathanmayer.org&#34;&gt;Jonathan Mayer&lt;/a&gt; in the &lt;a href=&#34;https://citp.princeton.edu/&#34;&gt;Center for Information Technology Policy&lt;/a&gt;. I also work as a Scientific Researcher at &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD candidate in Computer Science at Princeton University, advised by &lt;a href=&#34;https://www.jonathanmayer.org&#34;&gt;Jonathan Mayer&lt;/a&gt; in the &lt;a href=&#34;https://citp.princeton.edu/&#34;&gt;Center for Information Technology Policy&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My publications are listed below, and my current projects include a large-scale field study of disinformation interventions and a qualitative usability evaluation of a novel research platform.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My current research focus is on measuring the societal impact of technology while preserving individual privacy.&lt;/p&gt;
 
 &lt;p&gt;Outside of research, I love to teach and mentor. I’ve taught computing and security basics to students of all ages through &lt;a href=&#34;https://www.codecreative-ll.org/&#34;&gt;CodeCreative,&lt;/a&gt; &lt;a href=&#34;https://www.ll.mit.edu/outreach/llcipher&#34;&gt;LLCipher,&lt;/a&gt; and &lt;a href=&#34;https://rpis.ec/&#34;&gt;RPISEC,&lt;/a&gt; among other groups. At Princeton, I TA&amp;rsquo;d &lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos448/&#34;&gt;COS 448&lt;/a&gt; and &lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/spring20/cos217/&#34;&gt;COS 217.&lt;/a&gt;&lt;/p&gt;
 

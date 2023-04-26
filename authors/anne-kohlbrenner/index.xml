@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne Kohlbrenner | Ben Kaiser</title>
+    <link>http://benkaiser.org/authors/anne-kohlbrenner/</link>
+      <atom:link href="http://benkaiser.org/authors/anne-kohlbrenner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne Kohlbrenner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anne Kohlbrenner</title>
+      <link>http://benkaiser.org/authors/anne-kohlbrenner/</link>
+    </image>
+    
+    <item>
+      <title>Rally and WebScience: A Platform and Toolkit for Browser-Based Research on Technology and Society Problems</title>
+      <link>http://benkaiser.org/publication/rally-and-webscience/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/rally-and-webscience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

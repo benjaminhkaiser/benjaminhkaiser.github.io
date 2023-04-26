@@ -5,12 +5,28 @@
     <link>http://benkaiser.org/</link>
       <atom:link href="http://benkaiser.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Kaiser</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ben Kaiser</title>
       <link>http://benkaiser.org/</link>
     </image>
+    
+    <item>
+      <title>It&#39;s the Algorithm: A Large-Scale Comparative Field Study of Misinformation Interventions</title>
+      <link>http://benkaiser.org/publication/a-large-scale-comparative-field-study-of-misinformation-interventions/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/a-large-scale-comparative-field-study-of-misinformation-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rally and WebScience: A Platform and Toolkit for Browser-Based Research on Technology and Society Problems</title>
+      <link>http://benkaiser.org/publication/rally-and-webscience/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://benkaiser.org/publication/rally-and-webscience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adversary Safety by Construction in a Language of Cryptographic Protocols</title>
